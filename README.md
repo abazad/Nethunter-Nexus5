@@ -40,4 +40,22 @@ My personal experiences and tests with nethunter
   ### La documentacion oficial y acceso a foros y a sus sitios en github estan aqui:
   https://github.com/offensive-security/kali-nethunter/wiki
   
+  #
+  # ________NETHUNTER _____________
+  
+  ### Si bien es cierto que el motivo principal de este sitio y proyecto es instalar, configurar y aprender a usar
+  ### Nethunter en el Nexus 5... 
+  Debo aclarar que incluire cosas de Kali, de Windows, de Linux en general o de otras cosas que sean necesarias para cumplir una meta o que venga bien aprender por su utilidad, etc.
+  
+  Lo cierto es que la red esta llena de informacion sobre todo esto, aunque yo, personalmente, he echado mucho de menos un sitio en Español con mas informacion o más completa y donde poder intercambiar impresiones.
+  Por ese motivo he creado este sitio y el grupo en Telegram, para dar la oportunidad a otros que esten metidos en esto, a ayudar, preguntar, corregir, idear, etc. Por lo que permito la colaboracion y participacion en todos los sitios que he creado con este fin.
+  #
+  # Mini Wiki
+  #
+  # Instalacion:
+  #
+  # Configuracion y errores:
+  #
+  # Practicas y uso:
+  
 
