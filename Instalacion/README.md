@@ -8,12 +8,12 @@
   crear nuevos branch añadiendo o modificando cosas.
   
 ###     EL manual que he seguido esta en los archivos de esta carpeta.
-     https://github.com/robriap/my-compute-experiments-learning/blob/master/nethunter-nexus-5/Instalacion/Nexus%205_%20Desbloquear%20bootloader%20-%20Recovery%20TWRP%20-%20Root.pdf
-     
+    https://github.com/robriap/Nethunter-Nexus5/blob/master/Instalacion/Nexus%205_%20Desbloquear%20bootloader%20-%20Recovery%20TWRP%20-%20Root.pdf
+     
 
 ###     EL adb que instala lo que pone en el manual es este
-     https://github.com/robriap/my-compute-experiments-learning/blob/master/nethunter-nexus-5/Instalacion/adb-setup-1.4.3.exe
-     
+     https://github.com/robriap/Nethunter-Nexus5/blob/master/Instalacion/adb-setup-1.4.3.exe
+     
      El archivo original es de xda donde explican más detalladamente el asunto.
      https://forum.xda-developers.com/showthread.php?t=2588979
      
@@ -48,7 +48,7 @@ Por ejemplo:
 #       Rootear Nexus 5 con ROM Stock 6.0.1 
 
 Este es el root que he instalado yo
-https://github.com/robriap/my-compute-experiments-learning/blob/master/nethunter-nexus-5/Instalacion/SR5-SuperSU-v2.82-SR5-20171001224502.zip
+https://github.com/robriap/Nethunter-Nexus5/blob/master/Instalacion/twrp-3.2.1-1-hammerhead.img
 
 El  acceso  root  o  acceso  administrativo  es  un  clásico  y  algo  necesario  para aquellos  que  queremos  tener  control  total  sobre  nuestros  teléfonos.  Como  en este  caso  hablamos  de  una  rom  stock,  es  decir,  el  firmware  oficial,  el  root  es muy  importante  para  modificar  el  sistema  a  nuestro  gusto,  en  especial  si deseamos usar  Xposed Framework  y sus módulos. Luego  de  descargar  el  ZIP  de  SuperSU  copíalo  a  la  memoria  del  Nexus  5  y reinicialo en modo recovery. 
 ## 1.  Una  vez  en  TWRP,  entra  en  Install  y  busca  el  archivo  zip  del  instalador  de SuperSU, desliza el control para instalarlo. 
