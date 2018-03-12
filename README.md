@@ -8,10 +8,14 @@ My personal experiences and tests with nethunter
   https://spotbros.imbox.me/spot/profile/Y4MM30GEl
   ### Grupo que he creado en telegram esta aqui:
   https://t.me/joinchat/BsI4l0zD9z7vXkQPVMhjVg
- 
+ #
  # Aclaraciones:
   Todo lo contenido aqui es un mero registro que me sirve para aprender y tener una guia de mis pasos, no me hago responsable de los daños que puedas hacer a tus dispositivos o a otros ajenos por hacer cosas que yo he anotado aqui.
   
+#
+# Consideraciones especiales:
+ Soy una persona que está intentando aprender, todo lo que realizo en estos y otros de mis sitios no son mas que anotaciones con la unica intención de asumirlas como apuntes de aprendizaje. No tengo conocimientos previos sobre github ni tampoco sobre seguridad informatica, me dedico al transporte y mi unico objetivo con mis proyectos es investigar y aprender.
+ 
  #
  # Referencias:
   ### El sitio oficial de Nethunter esta aqui: 
