@@ -1,7 +1,7 @@
 # Nethunter-Nexus5 my experience> Mis anotaciones.
 My personal experiences and tests with nethunter
 
-<img src="https://github.com/robriap/my-compute-experiments-learning/blob/master/nethunter-nexus-5/files/IMG_20180302_102618.jpg">
+<https://github.com/robriap/Nethunter-Nexus5/blob/master/site-archives/IMG_20180302_102618.jpg">
 
  # Mis primeras anotaciones:
   ### Mis primeras anotaciones las estaba haciendo aqui:
