@@ -73,6 +73,9 @@ https://drive.google.com/a/slhsscience.net/file/d/1XJmX_wDKpAEtGCDtuNoQjPC0qWNcX
 
 ## Al terminar el proceso reinicio y arranco la aplicación nethunter que preparará el sistema. 
 ## Lo vuelvo a cerrar y ya está lista la instalación propiamente dicha.
+#
+# Errores encontrados
+### Al hacer > sudo apt-get update && apt-get upgrade , me encuentro varios errores que investigo y busco solucion para documentar una vez consiga que este correcto.
 
 
        
