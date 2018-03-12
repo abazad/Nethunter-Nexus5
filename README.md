@@ -1,2 +1,6 @@
-# Nethunter-Nexus5
+# Nethunter-Nexus5 my experience> Mis anotaciones.
 My personal experiences and tests with nethunter
+
+<img src="https://github.com/robriap/my-compute-experiments-learning/blob/master/nethunter-nexus-5/files/IMG_20180302_102618.jpg">
+Bien, despues de pelear casi una semana con este tema, he llegado a la conclusion de que antes de aprender sobre seguridad informatica debo detenerme seriamente en el tema de la instalacion y configuracion de Kali. En este caso es sobre "Kali Nethunter" que llevo toda la semana teniendo problemas.Despues de reinstalar varias veces no tengo claro si los problemas que estoy teniendo son porque deberia dejar la instalacion inicial tal cual, porque no deberia instalar los otros metapackages, porque no deberia actualizar "apt-get upgrade" y mucho menos "apt-get dist-upgrade", o porque motivos...Por lo que me veo en la obligacion de crear este sitio para llevar un registro de mis pasos y no terminar volviendome loco.No he sido capaz de encontrar algun grupo, foro o lugar en internet sobre Nethunter EN ESPAÑOL asi que voy a crear un grupo en telegram donde ire publicando mis pasos y errores y lo hare publico para que cualquiera que lo encuentre pueda aportar sus experiencias..
+## Mis primeras anotaciones las estaba haciendo aqui:    https://spotbros.imbox.me/spot/profile/Y4MM30GEl ## Grupo que he creado en telegram esta aqui:     https://t.me/joinchat/BsI4l0zD9z7vXkQPVMhjVg
